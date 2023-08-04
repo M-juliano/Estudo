@@ -1,2 +1,4 @@
 # Estudo
- APenas para estudo/teste de um inicante
+ Primeiro estudo de Git e GitHub
+ 
+ 
